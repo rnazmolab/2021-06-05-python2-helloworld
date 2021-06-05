@@ -9,6 +9,16 @@
 - python2
 - pip2
 
+## Example
+
+```console
+$ python2 ./main.py
+Hello World!!
+
+$ ./main.py
+Hello World!!
+```
+
 ## Env
 
 ```console
