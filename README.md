@@ -4,6 +4,11 @@
 
 - python2 practice
 
+## Prerequisite
+
+- python2
+- pip2
+
 ## Env
 
 ```console
@@ -32,10 +37,10 @@ $ type python
 python is /usr/bin/python
 Python 2.7.18
 Python 3.9.2
-pip is /usr/bin/pip
+pip is /usr/local/bin/pip
 pip3 is /usr/bin/pip3
-pip2 not found
-pip 20.3.4 from /usr/lib/python3/dist-packages/pip (python 3.9)
-/usr/bin/python2: No module named pip
+pip2 is /usr/local/bin/pip2
+pip 20.3.4 from /usr/local/lib/python2.7/dist-packages/pip (python 2.7)
+pip 20.3.4 from /usr/local/lib/python2.7/dist-packages/pip (python 2.7)
 pip 20.3.4 from /usr/lib/python3/dist-packages/pip (python 3.9)
 ```
