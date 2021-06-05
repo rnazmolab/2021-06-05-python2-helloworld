@@ -1,0 +1,9 @@
+{
+  // Interpreter
+  // Ref: https://code.visualstudio.com/docs/python/python-tutorial#_select-a-python-interpreter
+  "python.pythonPath": "/bin/python2",
+  // Formatting
+  // Ref: https://code.visualstudio.com/docs/python/editing#_formatting
+  "editor.formatOnSave": true,
+  // "python.formatting.provider": "autopep8",
+}
